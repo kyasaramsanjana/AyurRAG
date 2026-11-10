@@ -1,0 +1,8 @@
+{
+  "name": "ayurrag",
+  "version": "1.0.0",
+  "description": "Cross-Textual Ayurvedic Knowledge Retrieval System",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build"
+  }
+}

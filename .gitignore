@@ -1,0 +1,30 @@
+# Environments & Virtual Envs
+venv/
+.venv/
+env/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.db
+ayurrag_local.db
+ayurrag.db
+
+# Node.js & Vite
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+.vite/
+
+# Environment Variables
+.env
+.env.local
+
+# Vercel
+.vercel/
+
+# OS artifacts
+Thumbs.db
+.DS_Store
